@@ -13,3 +13,5 @@ curl --silent \
 unzip /tmp/chromedriver_linux64.zip chromedriver -d ~/.local/bin
 
 rm /tmp/chromedriver_linux64.zip
+
+chromedriver --version
